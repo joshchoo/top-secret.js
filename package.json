@@ -14,11 +14,11 @@
   "author": "Josh Choo",
   "license": "Apache-2.0",
   "dependencies": {
-    "crypto-js": "^4.0.0"
+    "crypto-js": "^4.1.1"
   },
   "devDependencies": {
-    "@types/jest": "^25.1.3",
-    "jest": "^25.1.0"
+    "@types/jest": "^26.0.24",
+    "jest": "^27.0.6"
   },
-  "homepage": "https://github.com/joshuous/top-secret.js#readme"
+  "homepage": "https://github.com/joshchoo/top-secret.js#readme"
 }
